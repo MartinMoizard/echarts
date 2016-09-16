@@ -1,0 +1,29 @@
+{
+  "name": "echarts",
+  "description": "A powerful charting and visualization library for browser",
+  "main": "index.js",
+  "authors": [
+    "ecomfe"
+  ],
+  "license": "?",
+  "keywords": [
+    "visualization",
+    "canvas"
+  ],
+  "homepage": "https://github.com/ecomfe/echarts",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "asset",
+    "benchmark",
+    "build",
+    "extension",
+    "map",
+    "src",
+    "test",
+    "theme"
+  ]
+}
